@@ -7,7 +7,7 @@ This is a spotify clone that was built using ReactJs and the Spotify web api. Th
 1) I got to polish my React JS skills.
 2) Finally, I got a detailed understanding of how to work with the Spotify web api.
 
-
+# You can check out the live website [here](https://spotify-remake.netlify.app).
 
 # Screenshots of the app:-
 <image src="./ss/1.png" alt="pic1"/>
@@ -15,4 +15,4 @@ This is a spotify clone that was built using ReactJs and the Spotify web api. Th
 <image src="./ss/3.png" alt="pic3"/>
 
 
-You can check out the live website [here](https://spotify-remake.netlify.app).
+
