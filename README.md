@@ -15,4 +15,4 @@ This is a spotify clone that was built using ReactJs and the Spotify web api. Th
 <image src="./ss/3.png" alt="pic3"/>
 
 
-You can check out the live website [here].
+You can check out the live website [here](https://spotify-remake.netlify.app).
